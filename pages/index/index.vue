@@ -151,7 +151,7 @@
 					
 						</swiper>
 					</view>
-					<!-- 分类推荐楼层 -->
+					 分类推荐楼层 -->
 					<view class="f-header m-t">
 						<!-- <image src="/static/temp/h1.png"></image> -->
 						<view class="tit-box">
