@@ -1,0 +1,1 @@
+<view class="data-v-aab035dc"><view data-event-opts="{{[['tap',[['onMask',['$event']]]]]}}" hidden="{{!(value)}}" class="mask data-v-aab035dc" bindtap="__e"></view><view hidden="{{!(value)}}" class="popup-wrap data-v-aab035dc" style="{{'height:'+(height)+';'}}"><slot></slot></view></view>

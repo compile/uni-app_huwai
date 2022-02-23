@@ -1,0 +1,1 @@
+<view class="data-v-3117be0d"><view class="{{['common-list-right-one','u-f-ajc','icon','iconfont','data-v-3117be0d',sex==0?'icon-nan':'icon-nv',sex==0?'':'nvcolor']}}">{{userage}}</view></view>
